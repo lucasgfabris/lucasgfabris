@@ -54,7 +54,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-fabris/) 
 - [react-nest-face-auth](https://github.com/lucasgfabris/react-nest-face-auth) - Sistema de autenticação facial com React, NestJS e face-api.js
 - [node-whatsapp-bulk](https://github.com/lucasgfabris/node-whatsapp-bulk) - API para envio de mensagens em lote via WhatsApp com Baileys
 - [nest-pedido-facil](https://github.com/lucasgfabris/nest-pedido-facil) - API REST para pedidos com JWT, PostgreSQL e Swagger
-- [fast-cut](https://github.com/lucasgfabris/fast-cut) - Gerador de cortes para YouTube Shorts, TikTok e Reels
+- [python-video-cuts](https://github.com/lucasgfabris/python-video-cuts) - Gerador de cortes para YouTube Shorts, TikTok e Reels
 - [ffmpeg-compress-web](https://github.com/lucasgfabris/ffmpeg-compress-web) - Aplicação web para comprimir vídeos com FFmpeg
 - [slack-2-jira](https://github.com/lucasgfabris/slack-2-jira) - Integração Slack-Jira para criar tickets via comando
 - [invisible-characters-detector](https://github.com/lucasgfabris/invisible-characters-detector) - Extensão Chrome que detecta 100+ tipos de caracteres invisíveis
