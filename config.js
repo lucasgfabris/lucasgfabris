@@ -4,14 +4,14 @@
  */
 
 const PROFILE = {
-  name: "Fabris",
+  name: "Lucas Fabris",
   location: "Vitória/ES",
   github: "lucasgfabris",
   stack: ["TypeScript", "Node.js", "Angular", "Java"],
   domains: ["PDV", "Delivery", "ERP", "WMS", "Integrações de pagamento"],
   hobbies: ["escrita", "música"],
   linkedin: "https://www.linkedin.com/in/lucas-fabris/",
-  email: "lucas.fabris@yooga.com.br",
+  email: "gflucas23@gmail.com",
 };
 
 const LOGOS = {
@@ -52,24 +52,34 @@ const EXPERIENCES = [
 
 const PROJECTS = [
   {
-    name: "ffmpeg-compress-web",
-    url: "https://github.com/lucasgfabris/ffmpeg-compress-web",
-    description: "Compressor de vídeo web usando FFmpeg",
-  },
-  {
-    name: "hello-cursor",
-    url: "https://github.com/lucasgfabris/hello-cursor",
-    description: "CLI que gera relatório diário com clima e tarefas do Jira",
-  },
-  {
-    name: "invisible-characters-detector",
-    url: "https://github.com/lucasgfabris/invisible-characters-detector",
-    description: "Detector de caracteres invisíveis",
+    name: "face-mask",
+    url: "https://github.com/lucasgfabris/face-mask",
+    description: "Sistema de autenticação facial com React, NestJS e face-api.js",
   },
   {
     name: "nest-pedido-facil",
     url: "https://github.com/lucasgfabris/nest-pedido-facil",
-    description: "API em NestJS",
+    description: "API REST para pedidos com JWT, PostgreSQL e Swagger",
+  },
+  {
+    name: "fast-cut",
+    url: "https://github.com/lucasgfabris/fast-cut",
+    description: "Gerador de cortes para YouTube Shorts, TikTok e Reels",
+  },
+  {
+    name: "ffmpeg-compress-web",
+    url: "https://github.com/lucasgfabris/ffmpeg-compress-web",
+    description: "Aplicação web para comprimir vídeos com FFmpeg",
+  },
+  {
+    name: "slack-2-jira",
+    url: "https://github.com/lucasgfabris/slack-2-jira",
+    description: "Integração Slack-Jira para criar tickets via comando",
+  },
+  {
+    name: "invisible-characters-detector",
+    url: "https://github.com/lucasgfabris/invisible-characters-detector",
+    description: "Extensão Chrome que detecta 100+ tipos de caracteres invisíveis",
   },
 ];
 

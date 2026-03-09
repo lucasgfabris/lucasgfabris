@@ -1,4 +1,4 @@
-### E aí! Sou o Fabris
+### E aí! Sou o Lucas Fabris
 
 Dev full-stack de Vitória/ES. Trabalho principalmente com **TypeScript**, **Node.js**, **Angular**, **Java**.
 
@@ -51,7 +51,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-fabris/) 
 
 ### Alguns projetos
 
-- [ffmpeg-compress-web](https://github.com/lucasgfabris/ffmpeg-compress-web) - Compressor de vídeo web usando FFmpeg
-- [hello-cursor](https://github.com/lucasgfabris/hello-cursor) - CLI que gera relatório diário com clima e tarefas do Jira
-- [invisible-characters-detector](https://github.com/lucasgfabris/invisible-characters-detector) - Detector de caracteres invisíveis
-- [nest-pedido-facil](https://github.com/lucasgfabris/nest-pedido-facil) - API em NestJS
+- [face-mask](https://github.com/lucasgfabris/face-mask) - Sistema de autenticação facial com React, NestJS e face-api.js
+- [nest-pedido-facil](https://github.com/lucasgfabris/nest-pedido-facil) - API REST para pedidos com JWT, PostgreSQL e Swagger
+- [fast-cut](https://github.com/lucasgfabris/fast-cut) - Gerador de cortes para YouTube Shorts, TikTok e Reels
+- [ffmpeg-compress-web](https://github.com/lucasgfabris/ffmpeg-compress-web) - Aplicação web para comprimir vídeos com FFmpeg
+- [slack-2-jira](https://github.com/lucasgfabris/slack-2-jira) - Integração Slack-Jira para criar tickets via comando
+- [invisible-characters-detector](https://github.com/lucasgfabris/invisible-characters-detector) - Extensão Chrome que detecta 100+ tipos de caracteres invisíveis
