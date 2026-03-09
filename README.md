@@ -23,7 +23,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Engineer** \
 [**Yooga**](https://yooga.com.br/) • Full-time \
 Linguagens & Tecnologias: `TypeScript`, `Angular`, `NestJS`, `Java`, `Quarkus`, `Ionic`, `Vue.js`\
-Projetos em destaque: PDV, Pagamentos (Itaú, Tuna), Gestão de Mesas
+Projetos em destaque: PDV, Gestão de Mesas, Delivery, Pagamentos (Itaú, Tuna), PLG
 <br/>
 <br/>
 
