@@ -20,10 +20,10 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Yooga" src="./assets/logos/yooga.jpg"/>](https://yooga.com.br/)
 
-**Full-Stack Software Engineer** \
+**Software Engineer** \
 [**Yooga**](https://yooga.com.br/) • Full-time \
 Linguagens & Tecnologias: `TypeScript`, `Angular`, `NestJS`, `Java`, `Quarkus`, `Ionic`, `Vue.js`\
-Projetos em destaque: PDV, Pagamentos (Stripe, Pagar.me, Itaú, Tuna), Gestão de Mesas
+Projetos em destaque: PDV, Pagamentos (Itaú, Tuna), Gestão de Mesas
 <br/>
 <br/>
 

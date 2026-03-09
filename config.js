@@ -28,7 +28,7 @@ const EXPERIENCES = [
     url: "https://yooga.com.br/",
     logo: LOGOS.yooga,
     technologies: ["TypeScript", "Angular", "NestJS", "Java", "Quarkus", "Ionic", "Vue.js"],
-    projects: ["PDV", "Pagamentos (Stripe, Pagar.me, Itaú, Tuna)", "Gestão de Mesas"],
+    projects: ["PDV", "Pagamentos (Itaú, Tuna)", "Gestão de Mesas"],
   },
   {
     company: "Reply",
