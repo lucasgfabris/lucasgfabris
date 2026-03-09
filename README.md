@@ -57,3 +57,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-fabris/) 
 - [ffmpeg-compress-web](https://github.com/lucasgfabris/ffmpeg-compress-web) - Aplicação web para comprimir vídeos com FFmpeg
 - [slack-2-jira](https://github.com/lucasgfabris/slack-2-jira) - Integração Slack-Jira para criar tickets via comando
 - [invisible-characters-detector](https://github.com/lucasgfabris/invisible-characters-detector) - Extensão Chrome que detecta 100+ tipos de caracteres invisíveis
+
+Veja todos os projetos em [github.com/lucasgfabris](https://github.com/lucasgfabris?tab=repositories)

@@ -45,6 +45,8 @@ Por favor, encontre-me no [LinkedIn](${PROFILE.linkedin}) para uma descrição m
 ### Alguns projetos
 
 ${PROJECTS.map(generateProject).join("\n")}
+
+Veja todos os projetos em [github.com/lucasgfabris](https://github.com/lucasgfabris?tab=repositories)
 `;
 
 fs.writeFileSync("README.md", readme);
