@@ -25,7 +25,7 @@ Já passei por projetos de ${PROFILE.domains.join(", ").toLowerCase()}. Fora do 
 
 ---
 
-### ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=${PROFILE.github}&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>

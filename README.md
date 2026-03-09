@@ -6,7 +6,7 @@ Já passei por projetos de pdv, delivery, erp, wms, integrações de pagamento. 
 
 ---
 
-### ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgfabris&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
