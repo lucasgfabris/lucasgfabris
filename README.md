@@ -27,10 +27,10 @@ Projetos em destaque: PDV, Gestão de Mesas, Delivery, Pagamentos (Itaú, Tuna),
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Reply" src="./assets/logos/reply.jpg"/>](https://reply.com.br/)
+[<img align="left" height="94px" width="94px" alt="Reply" src="./assets/logos/reply.jpg"/>](https://www.reply.com/pt)
 
 **Analista Desenvolvedor PL/SQL** \
-[**Reply**](https://reply.com.br/) • Full-time \
+[**Reply**](https://www.reply.com/pt) • Full-time \
 Linguagens & Tecnologias: `Oracle PL/SQL`, `SQL`\
 Projetos em destaque: WMS, Sustentação e Performance de Banco de Dados
 <br/>

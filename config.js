@@ -34,7 +34,7 @@ const EXPERIENCES = [
     company: "Reply",
     role: "Analista Desenvolvedor PL/SQL",
     type: "Full-time",
-    url: "https://reply.com.br/",
+    url: "https://www.reply.com/pt",
     logo: LOGOS.reply,
     technologies: ["Oracle PL/SQL", "SQL"],
     projects: ["WMS", "Sustentação e Performance de Banco de Dados"],
