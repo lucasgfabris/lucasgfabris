@@ -51,8 +51,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-fabris/) 
 
 ### Atuação Técnica — Yooga Tecnologia
 
-> Set/2025 – Mai/2026 · Full-Stack Software Engineer
-
 Abaixo, um panorama dos projetos e features que desenvolvi durante minha passagem pela Yooga:
 
 <details>
